@@ -112,7 +112,3 @@ int main()
 		printf("\n");
 	}
 }
-/*
-	Aún estoy aprendiendo las bases de c++
-	por lo que me disculpo de ante mano si hay algo que haga daño a la vista
-*/
